@@ -1,9 +1,10 @@
-package Question;
+
+package BasicQuestion;
 
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("Hello brother");
+		System.out.println("Hello ");
 
 	}
 
