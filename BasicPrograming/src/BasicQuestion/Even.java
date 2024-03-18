@@ -11,7 +11,7 @@ public class Even {
 		}else {
 			System.out.println("this is a Odd number");
 		}
-
+		sc.close();
 	}
 
 }

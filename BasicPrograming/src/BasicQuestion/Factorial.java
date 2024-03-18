@@ -8,7 +8,7 @@ public class Factorial {
 		int num=sc.nextInt();
 		int fac=fac(num);
 		System.out.println("Factorial="+fac);
-		
+		sc.close();
 
 	}
    public static int  fac(int a) {

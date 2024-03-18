@@ -18,6 +18,7 @@ public class Pattren4 {
 			}
 			System.out.println(" ");
 		}
+		sc.close();
 	}
 
 }

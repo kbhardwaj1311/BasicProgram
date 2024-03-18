@@ -8,7 +8,7 @@ public class AsciiValue {
 	   char c=sc.next().charAt(0);
 	   int a=c;
 	   System.out.println(a);
-	   
+	   sc.close();
 
 	}
 

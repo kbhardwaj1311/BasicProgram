@@ -11,6 +11,7 @@ public class RandomNumber {
             System.out.print(ram+" ");
         	
          }
+         sc.close();
 	}
 
 }
